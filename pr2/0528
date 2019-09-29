@@ -1,5 +1,0 @@
-Returns a process identifier (pid):
-// module name, function name, arguments
-pid1 = spawn(lab05, cardValue, [{king, red}]).
-pid1 = spawn(lab05, getnth, [1,2,3,4,5], 2). // which position we want to go 
-
